@@ -10,6 +10,8 @@
 - Advanced Flutter techniques
 - Kotlin for Android development
 - Machine Learning and Data Analytics
+- FastAPI
+- Docker
 
 ## 💞️ I’m looking to collaborate on ...
 - Innovative app development projects
