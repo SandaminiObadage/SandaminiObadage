@@ -5,11 +5,13 @@
 - Mobile App Development
 - IoT Projects
 - React and Flutter Development
+- Backend Development
 
 ## 🌱 I’m currently learning ...
 - Advanced Flutter techniques
 - Kotlin for Android development
 - Machine Learning and Data Analytics
+- Java
 - FastAPI
 - Docker
 
